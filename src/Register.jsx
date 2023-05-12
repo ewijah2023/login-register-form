@@ -13,8 +13,6 @@ export const Register = (props) => {
         <div className="auth-form-container">
             <h2>Register</h2>
         <form className="register-form" onSubmit={handleSubmit}>
-            <label htmlFor>Full Name</label>
-            <input type ="text" value="name" id="name" placeholder="full name" />
             <label htmlFor="email">email</label>
             <input value={email} onChange={(e) => setEmail(e.target.value)} type="email" placeholder="youremail@gmail.com" id="email" name="email" />
             <label htmlFor="password">password</label>
