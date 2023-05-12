@@ -1,3 +1,7 @@
+//// Goal is to build a simple responsive login page utilizing react, no backend functionality ////
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
